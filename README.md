@@ -51,11 +51,23 @@ Visualisations using ggplot, usage of statistical functions, Performing basic li
 
 Tableau visualisaion is done based on stackoverflow dataset obtained from a big query and different insights are revealed,
 
-https://public.tableau.com/profile/praveen1854#!/vizhome/D18128998-StackOverflowAnalytics/Insight-Dashboard
-https://public.tableau.com/profile/praveen1854#!/vizhome/D18128998-StackOverflowAnalytics/ExploratoryDashboard?publish=yes
+Tableau Workbooks,
+Stackoverflow Insights - https://public.tableau.com/profile/praveen1854#!/vizhome/D18128998-StackOverflowAnalytics/Insight-Dashboard
+Stackoverflow Exploration - https://public.tableau.com/profile/praveen1854#!/vizhome/D18128998-StackOverflowAnalytics/ExploratoryDashboard?publish=yes
 
 R is used as programming language to try same visualisations without using a tool like tableau.
 plotlib, ggplot libraries are used.
+
+6. Confusion Modelling
+
+This is my final semester dissertation topic for my masters in data analytics.
+
+A new direction is given to model confusion in human-human and human-chatbot conversation. A complete research on embeddings ad its types are studied
+such as BERT, GLOVE, ConveRT and self-trained embeddings type. 4 variants of the base dual encoder architecture are designed and implemented on a 
+conversational dataset which is labelled using an external annotator. Variants are compared against the human performance and a final t-test is done 
+to solve the hypothesis. A detailed explanation is given in the document 'D18128998_Praveen_Mohanprasad_MSc_thesisForEvaluation.pdf'.
+
+Interesting result is that the variant 4 of the proposed model outsmarts the state of the art model 'ConveRT' in the conversational domain.
 
 
 
