@@ -1,12 +1,12 @@
 # Data-Engineering
 
-1. Bigdata_Map_Reduce
+## 1. Bigdata_Map_Reduce
 
 This project is about letter frequency in chosen books. Java Map Reduce program is used on a hadoop cluster having 5 nodes.
 Number of occurrences of every letter in the documents are calculated.
 Concepts Covered - Map, Reduce, Setup, Cleanup, DistributedCache, Counter, Partitioner, Combiner.
 
-2. SPARK ML
+## 2. SPARK ML
 
 This project proves the work of distributed machine learning using the powerful spark engine. A student-mark dataset is chosen and prediction on
 pass/fail on final semester marks is done. Logistic regression, Random forest, Decision trees are used as classifiers. Comparison between classifiers 
